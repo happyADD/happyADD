@@ -5,9 +5,9 @@
 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&duration=1&color=6B11FF&vCenter=true&repeat=false&width=435&lines=+CKYF%E7%AE%97%E6%B3%95%E5%86%85%E9%AC%BC%E7%BB%84%EF%BC%88%E6%9B%BE%E7%BB%8F%E6%98%AF%E7%94%B5%E6%8E%A7%E7%BB%84%E7%9A%84%EF%BC%89)](https://git.io/typing-svg)
 
 
-<div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=happyADD&count_private=true&show_icons=true&theme=ambient_gradient" />
-    &nbsp; <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyADD&hide=CSS&layout=compact&theme=ambient_gradient" />
+<div align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=happyADD&count_private=true&show_icons=true&theme=ambient_gradient" />
+    &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyADD&hide=CSS&layout=compact&theme=ambient_gradient" />
 </div>
 
 

@@ -16,10 +16,6 @@
   <img src="https://skillicons.dev/icons?i=autocad,clion,matlab,pycharm,vim,vscode" alt="Icons" />
   <img src="https://skillicons.dev/icons?i=anaconda,bash,git,github,linux,powershell" alt="Icons" />
   <img src="https://skillicons.dev/icons?i=c,cpp,cmake,latex,md,opencv,py,pytorch,ros,ubuntu,wordpress" alt="Icons" />
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=15&pause=1000&color=000000&vCenter=true&width=435&lines=%3E%3ELimited+exposure%2C+Eager+to+learn+in+the+future%3A)](https://git.io/typing-svg)<div align="left">
-<div align="left">
   <img src="https://skillicons.dev/icons?i=javascript,html,raspberrypi,vue" alt="Icons" />
 </div>
 
